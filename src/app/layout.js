@@ -6,7 +6,7 @@ import Script from "next/script";
 const roboto = Noto_Sans({ subsets: ["latin"], weight: "400" });
 
 export const metadata = {
-  title: "inu - home",
+  title: "mentalz4k - home",
   description: "a site to watch anime",
 };
 
