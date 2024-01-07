@@ -21,7 +21,7 @@ export default function Navbar() {
       <div id="navbar">
         <Link href="/">
           <div id="explore">
-            <h1>Explore</h1>
+            <h1>Mentalz4K</h1>
           </div>
         </Link>
       </div>
